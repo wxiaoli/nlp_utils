@@ -1,9 +1,16 @@
-# NLP工具
-## 标准集/词库
+# NLP资源
+  
+- [NLP工具](#NLP工具)  
+- [预训练模型](#预训练模型)  
+- [语料](#语料)  
+____
+
+## NLP工具
+### 标准集/词库
 - [计算所汉语词性标记集ictclas](http://ictclas.nlpir.org/nlpir/html/readme.htm) （[json文件](./)）
 - [THUOCL: THU Open Chinese Lexicon](https://github.com/thunlp/THUOCL)
 
-## 工具包
+### 工具包
 - [结巴](https://github.com/fxsjy/jieba)
 - [Natural Language Toolkit,NLTK](https://www.nltk.org/) 
   > Resources backup download [address](https://pan.baidu.com/s/18olLCaXSnbKAghdVhGdW7A) (code: ejlw).
@@ -31,19 +38,19 @@
 - [腾讯texsmart](https://ai.tencent.com/ailab/nlp/texsmart/zh/index.htmll)       
 - [百度lac(Lexical Analysis of Chinese)](https://github.com/baidu/lac) 
 
-# 预训练模型
+## 预训练模型
 - [Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/zh/index.html)  
 - [pretrained Bert from google](https://github.com/google-research/bert/blob/master/multilingual.md)
 - [many types chinese word embeddings](https://github.com/Embedding/Chinese-Word-Vectors)
 - [pretrained BERT for Chinese](https://github.com/ymcui/Chinese-BERT-wwm)
 
-# 语料
+## 语料
 - [TWEETQA: A Social Media Focused Question Answering Dataset](https://tweetqa.github.io/)
   > For question answering based on tweet reading comprehension.<br/>
   > Backup download [address](https://pan.baidu.com/s/1CDNHmfiryxWIOxj8FGqnRw) (code: 8le1).<br/>
   > Normalized data version [address](https://pan.baidu.com/s/12OdWBRQOO1nCBkAPTsMqKQ) (code: 3hhv). [gratitude to...](https://github.com/WhaleFallzz/NUT_RC)
   
-## 收藏
+### 收藏
 - [ChineseDiachronicCorpus](https://github.com/liuhuanyong/ChineseDiachronicCorpus)   
     > ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾讯历时新闻2009-2016，人民日报历时语料1946-2003，参考消息历时语料1957-2002。<br/>
     > 基于历时流通语料库，可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料支持。该项目由公开渠道收集而成，不可商用，若有侵权，可联系删除。    
