@@ -1,6 +1,7 @@
 # NLP工具
-## 标准集
+## 标准集/词库
 - [计算所汉语词性标记集ictclas](http://ictclas.nlpir.org/nlpir/html/readme.htm) （[json文件](./)）
+- [THUOCL: THU Open Chinese Lexicon](https://github.com/thunlp/THUOCL)
 
 ## 工具包
 - [结巴](https://github.com/fxsjy/jieba)
@@ -34,6 +35,7 @@
 - [Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/zh/index.html)  
 - [pretrained Bert from google](https://github.com/google-research/bert/blob/master/multilingual.md)
 - [many types chinese word embeddings](https://github.com/Embedding/Chinese-Word-Vectors)
+- [pretrained BERT for Chinese](https://github.com/ymcui/Chinese-BERT-wwm)
 
 # 语料
 - [TWEETQA: A Social Media Focused Question Answering Dataset](https://tweetqa.github.io/)
