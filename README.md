@@ -1,5 +1,6 @@
 # NLP资源
-  
+***Continuously updated.***
+
 - [NLP工具](#NLP工具)  
 - [预训练模型](#预训练模型)  
 - [语料](#语料)  
@@ -32,13 +33,13 @@ ____
     #     'tokenize_pretokenized': True # Use pretokenized text as input and disable tokenization
     }
     nlp = stanza.Pipeline(**config)
-
   ```
 - [清华大学THULAC(THU Lexical Analyzer for Chinese)](http://thulac.thunlp.org/)  
 - [腾讯texsmart](https://ai.tencent.com/ailab/nlp/texsmart/zh/index.htmll)       
 - [百度lac(Lexical Analysis of Chinese)](https://github.com/baidu/lac) 
 
 ## 预训练模型
+- [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 - [Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/zh/index.html)  
 - [pretrained Bert from google](https://github.com/google-research/bert/blob/master/multilingual.md)
 - [many types chinese word embeddings](https://github.com/Embedding/Chinese-Word-Vectors)
@@ -49,6 +50,7 @@ ____
   > For question answering based on tweet reading comprehension.<br/>
   > Backup download [address](https://pan.baidu.com/s/1CDNHmfiryxWIOxj8FGqnRw) (code: 8le1).<br/>
   > Normalized data version [address](https://pan.baidu.com/s/12OdWBRQOO1nCBkAPTsMqKQ) (code: 3hhv). [gratitude to...](https://github.com/WhaleFallzz/NUT_RC)
+____
   
 ### 收藏
 - [ChineseDiachronicCorpus](https://github.com/liuhuanyong/ChineseDiachronicCorpus)   
