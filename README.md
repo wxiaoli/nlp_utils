@@ -50,6 +50,11 @@ ____
   > For question answering based on tweet reading comprehension.<br/>
   > Backup download [address](https://pan.baidu.com/s/1CDNHmfiryxWIOxj8FGqnRw) (code: 8le1).<br/>
   > Normalized data version [address](https://pan.baidu.com/s/12OdWBRQOO1nCBkAPTsMqKQ) (code: 3hhv). [gratitude to...](https://github.com/WhaleFallzz/NUT_RC)
+
+  [Movie Review Data](https://www.cs.cornell.edu/people/pabo/movie-review-data/)
+  > This page is a distribution site for movie-review data for use in sentiment-analysis experiments.
+   Available are collections of movie-review documents labeled with respect to their overall sentiment polarity (positive or negative) or subjective rating (e.g., "two and a half stars") and sentences labeled with respect to their subjectivity status (subjective or objective) or polarity.
+
 ____
   
 ### 收藏
