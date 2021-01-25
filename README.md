@@ -1,5 +1,7 @@
 # NLP资源
-***Continuously updated.***
+***Continuously updated.***  
+**注：以下资源均来自网上公开资源（均已标明出处），整理的目的主要是方便自己备查，如果能方便到其他人纯属意外。**
+
 ____
 - [NLP工具](#NLP工具)  
 - [预训练模型](#预训练模型)  
@@ -34,16 +36,18 @@ ____
     }
     nlp = stanza.Pipeline(**config)
   ```
+- [spacy](https://spacy.io/usage/spacy-101)
 - [清华大学THULAC(THU Lexical Analyzer for Chinese)](http://thulac.thunlp.org/)  
 - [腾讯texsmart](https://ai.tencent.com/ailab/nlp/texsmart/zh/index.htmll)       
 - [百度lac(Lexical Analysis of Chinese)](https://github.com/baidu/lac) 
 
-## 预训练模型
+## 预训练模型/词向量
 - [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/projects/glove/)
 - [Tencent AI Lab Embedding Corpus for Chinese Words and Phrases](https://ai.tencent.com/ailab/nlp/zh/index.html)  
 - [pretrained Bert from google](https://github.com/google-research/bert/blob/master/multilingual.md)
 - [many types chinese word embeddings](https://github.com/Embedding/Chinese-Word-Vectors)
 - [pretrained BERT for Chinese](https://github.com/ymcui/Chinese-BERT-wwm)
+- [weibo(num_tokens=136M, Vocabulary_Size=850K)](http://www.nlpir.org/wordpress/download/weibo.7z)
 
 ## 语料
 - [TWEETQA: A Social Media Focused Question Answering Dataset](https://tweetqa.github.io/)
