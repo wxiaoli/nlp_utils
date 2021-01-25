@@ -50,7 +50,6 @@ ____
 - [pretrained Bert from google](https://github.com/google-research/bert/blob/master/multilingual.md)
 - [many types chinese word embeddings](https://github.com/Embedding/Chinese-Word-Vectors)
 - [pretrained BERT for Chinese](https://github.com/ymcui/Chinese-BERT-wwm)
-- [weibo(num_tokens=136M, Vocabulary_Size=850K)](http://www.nlpir.org/wordpress/download/weibo.7z)
 
 ## 语料
 - [TWEETQA: A Social Media Focused Question Answering Dataset](https://tweetqa.github.io/)
